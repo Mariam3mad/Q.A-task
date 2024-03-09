@@ -1,5 +1,5 @@
 describe('Amazon task ', ()=>{
-    it('filter by samsung brand in computers and tablets in computers in shop by department ', ()=>{
+    it('should filter by samsung brand in computers and tablets in computers in shop by department ', ()=>{
         cy.viewport(1000, 660)
         cy.visit('https://amazon.com/')
          cy.get('.hm-icon').click().wait(2000)
