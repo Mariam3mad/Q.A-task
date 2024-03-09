@@ -1,3 +1,4 @@
 first we need to install cypress 
 open cypress 
-select amazon taask
+select amazon task
+run the code 
